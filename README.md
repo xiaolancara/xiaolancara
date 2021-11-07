@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://xiaolancara.github.io/header.gif" align="center" style="width: 100%" />
+<img src="https://xiaolancara.github.io/static/images/header.gif" align="center" style="width: 100%" />
 </div>  
   
 
