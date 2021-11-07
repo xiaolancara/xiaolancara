@@ -3,7 +3,7 @@
 <p align="center"><a href="https://xiaolancara.github.io"><img width="80%" src="./static/images/header.gif" /></a></p> 
   
 
-### <div align="center">Data Science 😊 Artificial Intelligence 🤩 Machine Learning 🧠  Deep Learning 🎀 Recommender System 🚀 NLP </div>  
+### <div align="center">Data Science 😊 Artificial Intelligence 🤩 Machine Learning 🧠  Deep Learning     🎀 Recommender System 🚀 NLP </div>  
   
 
 - 🔭 I built a Django Based Recommender System  in [Movie Application](https://caramovie.herokuapp.com/)  
