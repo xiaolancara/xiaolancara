@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://xiaolancara.github.io/static/images/header.gif" align="center" style="width: 100%" />
-</div>  
+<p align="center"><a href="https://xiaolancara.github.io"><img width="80%" src="./static/images/header.gif" /></a></p> 
   
 
 ### <div align="center">Data Science 😊 Artificial Intelligence 🤩 Machine Learning 🧠  Deep Learning 🎀 RecommenderSystem 🚀 NLP </div>  
