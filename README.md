@@ -93,4 +93,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=xiaolancara&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+and here's a graph for people who like graphs: 
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=xiaolancara&theme=github)
 <br/>  
