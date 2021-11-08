@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning NLP, RNN, CNN, Image Recognition  
   
 
-- ⚡ Passionate in Data Mining, Data Visualization, anything related to Data  
+- ⚡ Passionate in Data Mining, [Data Visualization](https://public.tableau.com/app/profile/cara.li), anything related to Data  
   
 
 - ❓ Ask me about anything related to Machine Learning technologies  
