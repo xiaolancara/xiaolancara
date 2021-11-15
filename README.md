@@ -87,12 +87,3 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-
-## Github Stats 
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=xiaolancara&theme=github)
-<br/>  
