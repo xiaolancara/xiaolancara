@@ -9,7 +9,7 @@
 - 🔭 I built a Django Based Recommender System  in [Movie Application](https://caramovie.herokuapp.com/)  
   
 
-- 🌱 I’m currently learning [NLP](https://github.com/xiaolancara/English_to_French_Translator), RNN, CNN, Image Recognition  
+- 🌱 I’m currently learning NLP ([English to French Translator](https://github.com/xiaolancara/English_to_French_Translator)), RNN, CNN, Image Recognition  
   
 
 - ⚡ Passionate in Data Mining, [Data Visualization](https://public.tableau.com/app/profile/cara.li), anything related to Data  
