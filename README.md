@@ -15,7 +15,7 @@
 - ⚡ Passionate in Data Mining, [Data Visualization](https://public.tableau.com/app/profile/cara.li), anything related to Data  
   
 
-- ❓ Ask me about anything related to Machine Learning technologies  
+- ❓ Ask me about anything related to [Machine Learning](https://github.com/xiaolancara/MLCode) technologies  
   
 
 <br/>  
