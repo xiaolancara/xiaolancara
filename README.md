@@ -11,6 +11,7 @@
 
 - 🌱 I’m currently learning NLP ([English to French Translator](https://github.com/xiaolancara/English_to_French_Translator)), Image Recognition  
   
+- 🚀 Check my (latest blogs on medium)(https://medium.com/@xiaolancara)
 
 - ⚡ Passionate in Data Mining, [Data Visualization](https://public.tableau.com/app/profile/cara.li), anything related to Data  
   
