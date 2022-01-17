@@ -6,7 +6,7 @@
 ### <div align="center">Data Science 😊 Artificial Intelligence 🤩 Machine Learning 🧠  Deep Learning <br/> 🎀 Recommender System 🚀 NLP </div>  
   
 
-- 🔭 I built a Django Based Recommender System  in [Movie Application](https://caramovie.herokuapp.com/)  
+- 🔭 I built a Django Based Recommender System  in [Movie Application](https://caramovie.herokuapp.com/). ([Code](https://github.com/xiaolancara/cara_movie_recommender)) 
   
 
 - 🌱 I’m currently learning NLP ([English to French Translator](https://github.com/xiaolancara/English_to_French_Translator) | [Chatbot via text or audio](https://github.com/xiaolancara/Chatbot)), Image Recognition  
