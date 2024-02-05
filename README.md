@@ -55,7 +55,7 @@
 ### DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=aws,terraform,jenkins,git,kubernetes,docker" alt="DevOps" height="50" />  
-<img style="margin: 10px" src="https://simpleskill.icons.workers.dev/svg?i=splunk" alt="ML&DataTool" height="50" /> 
+<img style="margin: 10px" src="https://simpleskill.icons.workers.dev/svg?i=splunk" alt="splunk" height="50" /> 
 
 </div>
 
